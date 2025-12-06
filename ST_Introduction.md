@@ -326,3 +326,93 @@ Build **head, hands, torso, legs separately** in sprints → assemble.
 * **Big Bang:** No plan, just code
 
 ---
+
+
+
+---
+
+# ## ⭐ **Test - Reporting**
+
+1. What was tested?
+2. How it was tested?
+3. Test Results ( Passed, Failed, Blocked, Skipped)
+4. Defects Found
+5. Status of requirements
+6. Risks, blockers and recommendations.
+
+
+
+Types of Test Reports:
+1. Daily / Execution report
+2. TSR Test Summary Report
+3. Defect Report
+4. Metric Report / Dashboard
+
+   what test report should contain:
+   1. objective: purpose
+   2. scope: what is included, what is excluded
+   3. test summary : no. of test cases executed
+   4. defects: all the defects found with its severity
+   5. metrics: pass% , fail %, execution%, defect density% etc.
+   6. risk : issue that may impact release
+   7. recommendations: whether to release or not?
+
+Examples:
+      Test Report
+      module: Login Test- Daily report
+      date: 6-12-2025
+      executed test cases: 10
+         passed: 8
+         failed: 2
+         blocked: 0
+      defects found: 
+      1. wrong error message displayed
+         severity: medium
+      2. Login button clickable without password.
+         serverity : high
+
+      status : testing in progress
+
+
+      TSR Test Summary report:
+      Total test cases: 120 
+      passed: 100
+      failed: 10 
+      blocked: 5
+      skipped: 5     110/120  * 100
+
+      defects: 
+      critcal: 2
+      high:    3
+      medium:   10
+      low:    5
+
+      Coverage : 91.6% tested 
+      recommendation: release with known low-severity issues.
+
+      Tools :
+      Jira
+      excel/ google sheet
+      jenkins reports
+      allure-report
+      pytest-html 
+
+      
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+---
