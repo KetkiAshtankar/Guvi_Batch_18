@@ -16,7 +16,7 @@ SDLC is the process used by software teams to **plan, build, test, and deliver**
 6. **Deployment**
 7. **Maintenance**
 
-### **Layman Example:**
+### **Example:**
 
 Building software = Building a **car**
 
@@ -41,7 +41,7 @@ Building software = Building a **car**
 A **linear and sequential** development model.
 Each phase must finish before the next begins.
 
-### **Diagram (Draw Like a Waterfall)**
+### **Diagram (imagine Like a Waterfall)**
 
 ```
 Planning 
@@ -59,7 +59,7 @@ Deployment
 Maintenance
 ```
 
-### **Layman Explanation**
+### ** Explanation**
 
 Like constructing a **house**—you cannot redo the foundation after completing the roof.
 
@@ -90,7 +90,7 @@ Planning → Development → Testing → Review → Feedback → Improvement
               ↺ repeated every sprint
 ```
 
-### **Layman Explanation**
+### ** Explanation**
 
 Like making **cupcakes**:
 You bake one → taste → adjust → bake again → improve.
@@ -123,7 +123,7 @@ Iteration 3 → More Features
 Iteration 4 → Refined System
 ```
 
-### **Layman Explanation**
+### ** Explanation**
 
 Like sculpting a **statue**:
 Start with a rough shape → refine → refine → refine → final statue.
@@ -182,7 +182,7 @@ An extension of Waterfall where **testing activities run parallel** to each deve
                  Coding (Bottom of V)
 ```
 
-### **Layman Explanation**
+### ** Explanation**
 
 Like building a **bridge**:
 While designing, engineers also design **tests** for each stage.
@@ -223,7 +223,7 @@ Each loop of the spiral adds more detail and features.
 Each loop: Planning → Risk → Build → Review
 ```
 
-### **Layman Explanation**
+### ** Explanation**
 
 Like building a **custom house**:
 You plan, check risks, build a part, review—repeat.
@@ -256,7 +256,7 @@ Design?       → Code
 Testing?      → At end  
 ```
 
-### **Layman Explanation**
+### ** Explanation**
 
 Like a **science experiment**:
 Just mix ingredients and see what happens.
