@@ -337,7 +337,7 @@ Build **head, hands, torso, legs separately** in sprints → assemble.
 * **Agile:** [Small features delivered fast](https://asana.com/resources/agile-methodology)
   
 * **Iterative:** [Improve the same product gradually](https://medium.com/@nld.anuradha/the-iterative-model-in-sdlc-a-practical-approach-to-software-development-a8eebf87fda7)
-* 
+  
 * **V-Model:** [Testing planned early, parallel to development](https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/)
   
 * **Spiral:** [Iterative + heavy risk analysis](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
